@@ -9,7 +9,7 @@ https://youtube-clone-react.onrender.com/
 ## 😎 What does this app do?
 
 - It is a clone of YouTube.
-- HomePage displays the most popular videos of the selected country by querying data from the YouTube API.
+- HomePage displays the most popular videos of the selected category by querying data from the YouTube API.
 - HomePage utilizes infinite-scroll feature, so new videos thumbnails will load when the user keeps scrolling down the page.
 - Typing a word and clicking on search does a real search on YouTube API, 12 results are displayed on the SearchPage.
 - The kinds of result is video,channel and playlist
